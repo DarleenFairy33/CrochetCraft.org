@@ -29,11 +29,44 @@ For support, do one of the following!
 ## Collaborators
 
 <!-- readme: collaborators -start -->
+<table>
+	<tbody>
+		<tr>
+            <td align="center">
+                <a href="https://github.com/dmge1234">
+                    <img src="https://avatars.githubusercontent.com/u/145773776?v=4" width="100;" alt="dmge1234"/>
+                    <br />
+                    <sub><b>dmge1234</b></sub>
+                </a>
+            </td>
+            <td align="center">
+                <a href="https://github.com/DarleenFairy33">
+                    <img src="https://avatars.githubusercontent.com/u/184435682?v=4" width="100;" alt="DarleenFairy33"/>
+                    <br />
+                    <sub><b>Darleen</b></sub>
+                </a>
+            </td>
+		</tr>
+	<tbody>
+</table>
 <!-- readme: collaborators -end -->
 
 ## Contributors
 
 <!-- readme: contributors -start -->
+<table>
+	<tbody>
+		<tr>
+            <td align="center">
+                <a href="https://github.com/DarleenFairy33">
+                    <img src="https://avatars.githubusercontent.com/u/184435682?v=4" width="100;" alt="DarleenFairy33"/>
+                    <br />
+                    <sub><b>Darleen</b></sub>
+                </a>
+            </td>
+		</tr>
+	<tbody>
+</table>
 <!-- readme: contributors -end -->
 
 ## Artists
