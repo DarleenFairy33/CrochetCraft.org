@@ -26,22 +26,9 @@ For support, do one of the following!
 - Ask The Forums!
 # Contributors,& Important People!
 
-## Owners
-- Darleen
-    - [GitHub](https://github.com/DarleenFairy33/)
-    - [Instagram](https://www.instagram.com/wtf_darleen/)
-    - [YouTube](https://www.youtube.com/@NeonDarleen)
-## Lead Admins & Mods
-- Darleen
-    - [GitHub](https://github.com/DarleenFairy33/)
-    - [Instagram](https://www.instagram.com/wtf_darleen/)
-    - [YouTube](https://www.youtube.com/@NeonDarleen)
-## Developers
-- Darleen
-    - [GitHub](https://github.com/DarleenFairy33/)
-    - [Instagram](https://www.instagram.com/wtf_darleen/)
-    - [YouTube](https://www.youtube.com/@NeonDarleen)
-- David [GitHub](https://github.com/dmge1234)
+<!-- readme: contributors -start -->
+<!-- readme: contributors -end -->
+
 ## Artists
 - SignsFly [LOGO ART]
     - [Etsy Shop](https://www.etsy.com/shop/signsfly)
