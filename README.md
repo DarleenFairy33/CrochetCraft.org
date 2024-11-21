@@ -41,6 +41,7 @@ For support, do one of the following!
     - [GitHub](https://github.com/DarleenFairy33/)
     - [Instagram](https://www.instagram.com/wtf_darleen/)
     - [YouTube](https://www.youtube.com/@NeonDarleen)
+- David [GitHub](https://github.com/dmge1234)
 ## Artists
 - SignsFly [LOGO ART]
     - [Etsy Shop](https://www.etsy.com/shop/signsfly)
