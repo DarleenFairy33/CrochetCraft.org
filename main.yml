@@ -5,13 +5,13 @@ on:
 
 jobs:
     contrib-readme-job:
-        runs-on: ubuntu-latest
+        runs-on: windows
         name: A job to automate contrib in readme
         permissions:
           contents: write
           pull-requests: write
         steps:
-            - name: Contribute List
-              uses: akhilmhdh/contributors-readme-action@v2.3.10
-              env:
+            # add required write permission
+            - uses: akhilmhdh/contributors-readme-action@v2.3.10
+                env:
                   GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
