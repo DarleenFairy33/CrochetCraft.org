@@ -26,6 +26,13 @@ For support, do one of the following!
 - Ask The Forums!
 # Contributors,& Important People!
 
+## Collaborators
+
+<!-- readme: collaborators -start -->
+<!-- readme: collaborators -end -->
+
+## Contributors
+
 <!-- readme: contributors -start -->
 <!-- readme: contributors -end -->
 
@@ -37,6 +44,7 @@ For support, do one of the following!
     - [GitHub](https://github.com/DarleenFairy33/)
     - [Instagram](https://www.instagram.com/wtf_darleen/)
     - [YouTube](https://www.youtube.com/@NeonDarleen)
+
 ## Demo Layouts
 
 ### Homepage Layout
